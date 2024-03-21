@@ -1,4 +1,5 @@
 # Primate Protocol: NFT-Powered Casino Ecosystem
+![image](https://github.com/primateProtocolAlph/litePaper/assets/164061361/eec9d8e2-3141-4897-8ec3-418cacc01c00)
 
 ## Introduction
 
@@ -21,6 +22,7 @@ Primate Protocol revolutionizes online gaming by integrating NFTs to directly in
 ## Provable Fairness in Gaming
 
 Our commitment to provable fairness ensures every game outcome can be verified for fairness and randomness through cryptographic techniques, building trust and ensuring integrity and transparency in our games.
+![image](https://github.com/primateProtocolAlph/litePaper/assets/164061361/2fe94601-e75f-4a1c-ac91-ff726c94affe)
 
 ## Financial Model Explained
 
